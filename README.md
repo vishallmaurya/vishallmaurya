@@ -5,6 +5,8 @@
   <img height="150" src="https://blog.boot.dev/img/800/github.webp"  />
 </div>
 
+*********************************************************************88
+
 ###
 
 <div align="center">
@@ -16,16 +18,10 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishallmaurya.vishallmaurya&"  />
-  <img src = "https://visitcount.itsvg.in/api?id=vishallmaurya&icon=0&color=0)(https://visitcount.itsvg.in"/>
-</div>
+*****************************************************************
 
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, Vishal Maurya here</h1>
 
 ###
 
@@ -61,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="12" alt = "keras">
+  <img src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt = "keras">
   [Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 </div>
 
@@ -74,6 +70,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vishallmaurya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=vishallmaurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="220" alt="recent year"/>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishallmaurya.vishallmaurya&"  />
+  <img src = "https://visitcount.itsvg.in/api?id=vishallmaurya&icon=0&color=0)(https://visitcount.itsvg.in"/>
 </div>
 
 ###
