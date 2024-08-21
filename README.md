@@ -2,10 +2,10 @@
 
 
 <div align="center">
-  <img height="150" src="https://blog.boot.dev/img/800/github.webp"  />
+  <img height="300" width="300" src="https://blog.boot.dev/img/800/github.webp"  />
 </div>
 
-*********************************************************************88
+*********************************************************************
 
 ###
 
