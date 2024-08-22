@@ -23,7 +23,7 @@
 
 <h1 align="center">Hey there 👋, Vishal Maurya 👩‍💻 here</h1>
 
-<p align="center">"Hi, i'm Vishal Muayra a passionate software engineer and data enthusiast. I love turning complex problems into simple.<br><br>- 📚 I'm currently pursuing MCA at NIT Jamshedpur<br><br>- 🌱  I'm currently expanding my knowledge in machine learning, data science, and software development, constantly seeking new ways to enhance my skills and contriubte to impactful projects.<br><br>- ⚡ Fun fact: I like to sleep :)</p>
+<p align="center">"Hi, i'm Vishal Maurya a passionate software engineer and data enthusiast. I love turning complex problems into simple.<br><br>- 📚 I'm currently pursuing MCA at NIT Jamshedpur<br><br>- 🌱  I'm currently expanding my knowledge in machine learning, data science, and software development, constantly seeking new ways to enhance my skills and contriubte to impactful projects.<br><br>- ⚡ Fun fact: I like to sleep :)</p>
 
 ###
 
